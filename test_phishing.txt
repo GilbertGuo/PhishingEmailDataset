@@ -1,0 +1,220 @@
+Received: from YT1PR01MB4249.CANPRD01.PROD.OUTLOOK.COM (2603:10b6:b01:29::15)
+ by YTXPR0101MB1039.CANPRD01.PROD.OUTLOOK.COM with HTTPS; Tue, 6 Apr 2021
+ 19:00:09 +0000
+Authentication-Results: uoguelph.ca; dkim=none (message not signed)
+ header.d=none;uoguelph.ca; dmarc=none action=none header.from=uoguelph.ca;
+Received: from YTOPR0101MB1513.CANPRD01.PROD.OUTLOOK.COM
+ (2603:10b6:b00:21::24) by YT1PR01MB4249.CANPRD01.PROD.OUTLOOK.COM
+ (2603:10b6:b01:29::15) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.3999.32; Tue, 6 Apr
+ 2021 19:00:08 +0000
+Received: from YTOPR0101MB1513.CANPRD01.PROD.OUTLOOK.COM
+ ([fe80::1519:12c9:eb1c:e620]) by YTOPR0101MB1513.CANPRD01.PROD.OUTLOOK.COM
+ ([fe80::1519:12c9:eb1c:e620%5]) with mapi id 15.20.3999.032; Tue, 6 Apr 2021
+ 19:00:08 +0000
+From: Jessica Jowett <jowettj@uoguelph.ca>
+Subject: Work
+Thread-Topic: Work
+Thread-Index:
+ AdcrExdOjUrKAOWNTCmzQ2qstFDujQAAC45gAAAAFcAAAAAYoAAAABWgAAAAGDAAAAATwAAAABbAAAAAFYAAAAAWEAAAABWg
+Date: Tue, 6 Apr 2021 19:00:08 +0000
+Message-ID:
+ <YTOPR0101MB1513718E5389731FD32446E2B2769@YTOPR0101MB1513.CANPRD01.PROD.OUTLOOK.COM>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+X-MS-TNEF-Correlator:
+ <YTOPR0101MB1513718E5389731FD32446E2B2769@YTOPR0101MB1513.CANPRD01.PROD.OUTLOOK.COM>
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource:
+ YTOPR0101MB1513.CANPRD01.PROD.OUTLOOK.COM
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [54.236.49.32]
+X-MS-Exchange-Organization-Network-Message-Id:
+ 663d8962-33cd-495e-5bab-08d8f92e32d4
+X-MS-PublicTrafficType: Email
+To: Undisclosed recipients:;
+Return-Path: jowettj@uoguelph.ca
+X-MS-Exchange-Organization-ExpirationStartTime: 06 Apr 2021 19:00:09.0425
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Office365-Filtering-Correlation-Id: 663d8962-33cd-495e-5bab-08d8f92e32d4
+X-MS-TrafficTypeDiagnostic: YT1PR01MB4249:
+X-MS-Oob-TLC-OOBClassifiers: OLM:4502;
+X-Microsoft-Antispam: BCL:0;
+X-Forefront-Antispam-Report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:-1;SRV:;IPV:NLI;SFV:SKI;H:YTOPR0101MB1513.CANPRD01.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:;DIR:INB;
+X-MS-Exchange-AntiSpam-MessageData:
+ =?us-ascii?Q?lRUN/HckwafyTkeAjBAOe0X0zrPVsnTfu6TN1RoA8DG+h82zAB4ciVaA4BUr?=
+ =?us-ascii?Q?M4Hs78za/jOt1AV+Rxd2XwORhR0CUnt0ueDCpuK1Ta/cgQRMkS0D49QG1D2V?=
+ =?us-ascii?Q?z89eUn6I4zaC45Mj0Rnr8diV422UP/pgnlk5rwV+Uz1zu1F1fgAhXc4KGn+x?=
+ =?us-ascii?Q?xdmlx8wVS5Vy/lGiWKIqsVu/T0dQ1IcQo8+Jj+h4GOgBCXoz9cfa2ho5EaIg?=
+ =?us-ascii?Q?CIUPgibKvc8GTj/y+8Idqff/Wptn5RSVgLSAH0KK3g7mAbtpLYS/yr489sBS?=
+ =?us-ascii?Q?A3iW5UUr+o3E+8U3gFrVcQT7pt48SmUKvtGO3FkfvsQqFmViAAStNJEg23ld?=
+ =?us-ascii?Q?spFfyne7n941mHG5IxjX5/XmbvIBpssE25iZD1INikOzay9AzfvqTLGRIKvT?=
+ =?us-ascii?Q?xnKP7WFzEgTcU9FpL8a1Vd7GJzYfk+cU4xmJGg7PzuVyhEX3UluPSfdmC972?=
+ =?us-ascii?Q?qHs8JLZ7vIsh4boH/PzxUAjuVqVTtloQcJIajAGUhag0FIGZSpUNvFUmpLL7?=
+ =?us-ascii?Q?4zY4f+Eb2g6NozF+Frrp8otjz8gFou1NT0YeDgUz6toTcrncMf9dgI0mCS67?=
+ =?us-ascii?Q?orfDzcITy7eSK7w6vYRVP6G7DXDxAf2626m02zIe3Q6vKabdqNC32pawN0U6?=
+ =?us-ascii?Q?o2pFvLjs3WroKeq4ff03zvFwYE7Y7KEL42jExNojrhG1Km6gW0a/couH6Ebt?=
+ =?us-ascii?Q?Wr6Xv1Y0wJPRlyTuT7ppO6Vm7NVJCO+dMODgo4kwhoZ9Ybvt2XhMwhYdT/bS?=
+ =?us-ascii?Q?kAV2J5yuweonVFIo2/gl7LueUgeZVkav9JeoNRKDYtZ2A8Q7CdfBGehTM77R?=
+ =?us-ascii?Q?dMMmI6ANTymi/Vu6W7Ex4zbE0Wp5aSmNC+JoQ3QCaM0GAi3ehxb7L2Z5Vw/a?=
+ =?us-ascii?Q?35dJ+CuH0ng0yhXIG4ngEIKqFPj7FbAdBN/KGv/x3cKMNXUaSZxDdmKWSFc3?=
+ =?us-ascii?Q?b5Xy5kemG4+zqkbeSRZ5vtNSLxAonGuHgfiDErLpDJR2W11UkU18y7Mz+425?=
+ =?us-ascii?Q?KebSjDMwoAJ/Y+PrH6rHAqu21pj5t1IWcRc7NToYY1OeU9ligVaU+cCdMdww?=
+ =?us-ascii?Q?EzWWwt519MOyQARZke98jziG8r1Iy+u+dVCAJBXiLr+7fVeAFPl+h+EtHmq6?=
+ =?us-ascii?Q?SV4Xy74cI3XxBQw/bliFXhUxIyIYVQ1iqtQpMzaFrwt+aFbkAImyKzOuwxhW?=
+ =?us-ascii?Q?gAXWO0gdM5D56fZrSNfRUHzkBufaM0cFhnwg5htCT8aivlid0An25OuWdZ/b?=
+ =?us-ascii?Q?1TSzuS2IX74ym1C2BwhZgoELTpiiTLmrvZpP7/NtG2njWXU0pHb8Wsg7CWr0?=
+ =?us-ascii?Q?ZcGaejiXlp/LbDB+Czt844UJ?=
+X-MS-Exchange-Organization-Recipient-P2-Type: Bcc
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 06 Apr 2021 19:00:08.7526
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: be62a12b-2cad-49a1-a5fa-85f4f3156a7d
+X-MS-Exchange-CrossTenant-AuthSource: YTOPR0101MB1513.CANPRD01.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-Network-Message-Id: 663d8962-33cd-495e-5bab-08d8f92e32d4
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: qAMCpzl3Y1DV/rC1CapieF5XggnCDkvaqhoW9FrwjvtazsLPae/AjfIlV0ENI11Vs/XtMyJGv77gctFR/6AYKA==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: YT1PR01MB4249
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.4853274
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.3999.032
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(750129)(520011016)(706158)(944506458)(944626604);
+X-Microsoft-Antispam-Message-Info:
+	D8dusT630RmEqeskJkN4Ri9Wr5imLqtcPIKOK9OULTCOkiewJS1vsHCg9XhKd65H1aFKEAgQC0w0vfeqA1oWA9XyRdvZQL8ooH2H8yFp4KCZkMgHOC3T2vN/A25l2lxl3D7ZbA1gzsobhyh6t5d/kJdXPtQetmHNEljm8uPD7+n5Gn5MJsB4nc0FQ00Ek969WW1iCaYKtsLBVJQuacihqUQcSRxJaJP27U9Yd2gu5YMy//GfeH2PhjPNAqjWW/AVr4xyct8Y5HajDqH13BVwpM6hMkQaX3dyys7rQ3/tE6AcS3TzSuYExw2AXKa59dqnIj79leokwxGUuvmlOnFgRZNzNoXqK17PsgDRpmdkeZ665H2wdRGUxY+uhxxak5Z5GSFIGxWbTzSYZkVS9fjPrbPWiADtD56kK7I1ZNWPmn5MIePhCRh44TBanDI71QwFOdd9fjpfzVsSZGu+ty7AZXR9k//5rQsKmNAv7FvNqhSYwwnbkM5PkqhDj+G+J+kjFMIWdeo+EGKACMGcxevE1QZJM8ulQ9R2EFyRZU6ujvsbWOTo9SRhmb5AV/jNNxqTHvkDlgiwhNY/kEtKSOMl9l4IRCrFVBTAPYRAwElA5PP8ycxqJC6fiwtm4Jce7/wm+mTjMNplbX2FEnUYTNQVfTVATx83b3XBGgEtv6NsVho=
+Content-type: multipart/alternative;
+	boundary="B_3703774198_2027925058"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3703774198_2027925058
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: 7bit
+
+Warning: This email message may contain links to potentially dangerous websites. Please exercise caution and verify the link is for legitimate purposes before providing any information. 
+
+Hello,
+
+I'd like to refer you to a part-time customer assessment job; you will be paid between $300 to $350 for every assessment. Kindly Click here for more details and how to apply.  Note: This job can be very exciting, for those who love to shop it's the perfect job that offers fun assignments and flexible schedules. Your contribution will bring improvement to customer services within your area. 
+
+ 
+
+Regards
+
+Jessica Jowett, BComm
+
+Administrative Assistant to the Chair and Faculty,
+
+Department of Population Medicine,
+
+Ontario Veterinary College,
+
+University of Guelph,
+
+Guelph, Ontario, Canada
+
+N1G 2W1
+
+ 
+
+
+--B_3703774198_2027925058
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsof=
+t-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" xmlns:m=
+=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org=
+/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><meta na=
+me=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+span.EmailStyle18
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri",sans-serif;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3D"EN-US" link=3D"#0563C1" =
+vlink=3D"#954F72" style=3D"word-wrap:break-word"><div style=3D"font-size:12pt;  fo=
+nt-family: 'Calibri',sans-serif;"><div style=3D"background-color:#ffcccc; bord=
+er:1px #000000; padding:.8em; "><span style=3D"font-size:12pt;  font-family: '=
+Calibri',sans-serif; color:#000000;"><b>Warning:</b></span><span style=3D"font=
+-size:12pt;  font-family: 'Calibri',sans-serif; color:#000000;"> This email =
+message may contain links to potentially dangerous websites. Please exercise=
+ caution and verify the link is for legitimate purposes before providing any=
+ information. </span><br></div><br></div><div><div class=3D"WordSection1"><p c=
+lass=3D"MsoNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto">=
+Hello,<br><br>I'd like to refer you to a part-time customer assessment job; =
+you will be paid between $300 to $350 for every assessment. Kindly <a href=3D"=
+https://mspa-globalltd.weebly.com" target=3D"_blank">Click here</a>&nbsp;for m=
+ore details and how to apply.&nbsp; Note: This job can be very exciting, for=
+ those who love to shop it's the perfect job that offers fun assignments and=
+ flexible schedules. Your contribution will bring improvement to customer se=
+rvices within your area. <o:p></o:p></p><p class=3D"MsoNormal" style=3D"mso-marg=
+in-top-alt:auto;mso-margin-bottom-alt:auto">&nbsp;<o:p></o:p></p><p class=3D"M=
+soNormal" style=3D"mso-margin-top-alt:auto;mso-margin-bottom-alt:auto">Regards=
+<o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:blac=
+k;mso-fareast-language:EN-CA">Jessica Jowett, BComm</span><span lang=3D"EN-CA"=
+ style=3D"font-size:12.0pt;color:black;mso-fareast-language:EN-CA"><o:p></o:p>=
+</span></p><p class=3D"MsoNormal"><span style=3D"font-size:12.0pt;color:black;ms=
+o-fareast-language:EN-CA">Administrative Assistant to the Chair and Faculty,=
+</span><span lang=3D"EN-CA" style=3D"font-size:12.0pt;color:black;mso-fareast-la=
+nguage:EN-CA"><o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-s=
+ize:12.0pt;color:black;mso-fareast-language:EN-CA">Department of Population =
+Medicine,</span><span lang=3D"EN-CA" style=3D"font-size:12.0pt;color:black;mso-f=
+areast-language:EN-CA"><o:p></o:p></span></p><p class=3D"MsoNormal"><span styl=
+e=3D"font-size:12.0pt;color:black;mso-fareast-language:EN-CA">Ontario Veterina=
+ry College,</span><span lang=3D"EN-CA" style=3D"font-size:12.0pt;color:black;mso=
+-fareast-language:EN-CA"><o:p></o:p></span></p><p class=3D"MsoNormal"><span st=
+yle=3D"font-size:12.0pt;color:black;mso-fareast-language:EN-CA">University of =
+Guelph,</span><span lang=3D"EN-CA" style=3D"font-size:12.0pt;color:black;mso-far=
+east-language:EN-CA"><o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D=
+"font-size:12.0pt;color:black;mso-fareast-language:EN-CA">Guelph, Ontario, C=
+anada</span><span lang=3D"EN-CA" style=3D"font-size:12.0pt;color:black;mso-farea=
+st-language:EN-CA"><o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"f=
+ont-size:12.0pt;color:black;mso-fareast-language:EN-CA">N1G 2W1</span><span =
+lang=3D"EN-CA" style=3D"font-size:12.0pt;color:black;mso-fareast-language:EN-CA"=
+><o:p></o:p></span></p><p class=3D"MsoNormal"><o:p>&nbsp;</o:p></p></div></div=
+></body></html>
+
+--B_3703774198_2027925058--
+
